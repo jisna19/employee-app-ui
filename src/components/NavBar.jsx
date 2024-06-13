@@ -13,6 +13,7 @@ const NavBar = () => {
                     <div class="collapse navbar-collapse" id="navbarNav">
                         <ul class="navbar-nav">
                                 <Link class="nav-link active" aria-current="page" to="/">Add</Link>
+                                <Link class="nav-link active" aria-current="page" to="/search">Search</Link>
                                 <Link class="nav-link active" aria-current="page" to="/view">View</Link>   
                         </ul>
                     </div>
